@@ -1,4 +1,4 @@
-@extends('template.error')
+@extends('layouts.error')
 
 @section('title', '500')
 

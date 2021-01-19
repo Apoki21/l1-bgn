@@ -1,4 +1,4 @@
-@extends('template.sign')
+@extends('layouts.sign')
 
 @section('title', 'Sign In')
 
