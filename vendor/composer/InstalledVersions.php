@@ -24,12 +24,12 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => 'dev-main',
-    'version' => 'dev-main',
+    'pretty_version' => '1.0.0+no-version-set',
+    'version' => '1.0.0.0',
     'aliases' => 
     array (
     ),
-    'reference' => '323bc6b38416ca654d6c944e1cdfa943dc2726db',
+    'reference' => NULL,
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -149,12 +149,12 @@ private static $installed = array (
     ),
     'fzaninotto/faker' => 
     array (
-      'pretty_version' => 'v1.9.2',
-      'version' => '1.9.2.0',
+      'pretty_version' => 'v1.5.0',
+      'version' => '1.5.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => '848d8125239d7dbf8ab25cb7f054f1a630e68c2e',
+      'reference' => 'd0190b156bcca848d401fb80f31f504f37141c8d',
     ),
     'hamcrest/hamcrest-php' => 
     array (
@@ -397,12 +397,12 @@ private static $installed = array (
     ),
     'laravel/laravel' => 
     array (
-      'pretty_version' => 'dev-main',
-      'version' => 'dev-main',
+      'pretty_version' => '1.0.0+no-version-set',
+      'version' => '1.0.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => '323bc6b38416ca654d6c944e1cdfa943dc2726db',
+      'reference' => NULL,
     ),
     'laravel/tinker' => 
     array (
@@ -509,12 +509,12 @@ private static $installed = array (
     ),
     'paragonie/random_compat' => 
     array (
-      'pretty_version' => 'v9.99.99',
-      'version' => '9.99.99.0',
+      'pretty_version' => 'v2.0.19',
+      'version' => '2.0.19.0',
       'aliases' => 
       array (
       ),
-      'reference' => '84b4dfb120c6f9b4ff7b3685f9b8f1aa365a0c95',
+      'reference' => '446fc9faa5c2a9ddf65eb7121c0af7e857295241',
     ),
     'phar-io/manifest' => 
     array (
